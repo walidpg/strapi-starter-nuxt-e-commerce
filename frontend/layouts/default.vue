@@ -6,7 +6,7 @@
     <Nuxt class="flex-grow" />
     <Footer />
   </div>
-  <div hidden id="snipcart" data-api-key="ODhhNWUxOGEtNTk0OC00OTQwLWJkOWMtM2M1ZmNjODU1ZDJhNjM3MzMyNzM0NjM1OTMyNjcz"></div>
+  <div hidden id="snipcart" data-api-key="YmJjMDgwZDEtN2E3Ny00Mzg1LTgwYTktODY5NjAyZTU2ZjEyNjM3NDk0ODE2NzA4Mzc3MjMx"></div>
 </div>
 </template>
 
